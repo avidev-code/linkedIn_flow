@@ -29,13 +29,6 @@ This repository includes the necessary files to render the LinkedIn Flow concept
 
 ---
 
-## Live Preview
-
-You can view a live preview of the **LinkedIn Flow** concept [**here**](YOUR_LIVE_DEMO_LINK_GOES_HERE).
-[*(**Remember to replace `YOUR_LIVE_DEMO_LINK_GOES_HERE` with the actual URL to your deployed project**, e.g., GitHub Pages, Netlify, Vercel)*]:#
-
----
-
 ## 🛠️ Technologies Used (Current Phase)
 
 * **HTML5**: For structuring the content and elements of the news feed.
