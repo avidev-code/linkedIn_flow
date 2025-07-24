@@ -1,4 +1,4 @@
-# # LinkedIn Flow: A Responsive HTML/CSS News Feed Concept
+# LinkedIn Flow: A Responsive HTML/CSS News Feed Concept
 
 <sub>_(Ctrl + Click or Middle-click to open in a new tab)_</sub>
 
